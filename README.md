@@ -1,6 +1,7 @@
 # Paris Case Study
 
 This repository contains the code, datasets, and analysis for a study on **climate and social inequalities in Paris**.  
+It quantifies the **Urban Heat Island (UHI)** effect, analyzes **socioeconomic vulnerability**, and evaluates **adaptation strategies** through real data.
 
 ## Project Objective
 
@@ -11,6 +12,9 @@ The objective of this project is to:
 - Examine how **income levels, population density, and green space availability** influence exposure to urban heat.  
 - Provide an initial **cost-benefit analysis** of adaptation measures implemented by the City of Paris.
 
+## Why It Matters
+Extreme heat is one of the fastest-growing urban risks in Europe.  
+This project shows how **environmental and social data** can be combined to guide **equitable climate adaptation policies**.
   
 ## Structure
 
