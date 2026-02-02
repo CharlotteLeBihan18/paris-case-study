@@ -18,7 +18,7 @@ This project shows how **environmental and social data** can be combined to guid
   
 ## Structure
 
-- 'Paris_Case_Study_Notebook.ipynb' → Main Google Colab notebook with data cleaning, analysis, and visualizations.
+- 'Notebook.ipynb' → Main Google Colab notebook with data cleaning, analysis, and visualizations.
 - 'data/' → Contains (or references) the datasets used.
 
 ## Data Sources
