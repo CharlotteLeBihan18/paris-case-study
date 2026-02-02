@@ -1,4 +1,4 @@
-# Paris Case Study
+# Quantifying Urban Heat Challenges and Green Infrastructure Solutions in Paris
 
 This repository contains the code, datasets, and analysis for a study on **climate and social inequalities in Paris**.  
 It quantifies the **Urban Heat Island (UHI)** effect, analyzes **socioeconomic vulnerability**, and evaluates **adaptation strategies** through real data.
